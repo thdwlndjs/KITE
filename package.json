@@ -1,0 +1,10 @@
+{
+  "name": "kite-signal-loop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "KITE cycle 0.1 — underlying-problem signal collector (see docs/CONTEXT.md, .re0/iteration/0.1-signal-loop/)",
+  "type": "commonjs",
+  "scripts": {
+    "report": "node collector/report.js"
+  }
+}
